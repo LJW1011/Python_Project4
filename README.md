@@ -1,1 +1,1 @@
-# Python_Project4
+# Python_Project_4_제주도 쓰레기 발생량 감소를 위한 실시간 쓰레기 집계 및 포인트 시스템 구축
